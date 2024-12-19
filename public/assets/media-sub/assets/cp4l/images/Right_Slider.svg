@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="24px" viewBox="0 0 19 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Right_Slider</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M238,423 L241.763932,423 C242.521476,423 243.214002,423.428005 243.552786,424.105573 L247,431 L247,431 L243.552786,437.894427 C243.214002,438.571995 242.521476,439 241.763932,439 L238,439 C236.895431,439 236,438.104569 236,437 L236,425 C236,423.895431 236.895431,423 238,423 Z" id="path-1"></path>
+        <filter x="-50.0%" y="-34.4%" width="218.2%" height="181.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.231097028 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="190925_europarts_price_range_001" transform="translate(-271.000000, -752.000000)">
+            <g id="Group" transform="translate(40.000000, 332.000000)">
+                <g id="Right_Slider" transform="translate(241.500000, 431.000000) scale(-1, 1) translate(-241.500000, -431.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#D1D1D1" stroke-width="0.6" d="M246.66459,431 L243.284458,424.239737 C242.996492,423.663804 242.407845,423.3 241.763932,423.3 L238,423.3 C237.061116,423.3 236.3,424.061116 236.3,425 L236.3,437 C236.3,437.938884 237.061116,438.7 238,438.7 L241.763932,438.7 C242.407845,438.7 242.996492,438.336196 243.284458,437.760263 L246.66459,431 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

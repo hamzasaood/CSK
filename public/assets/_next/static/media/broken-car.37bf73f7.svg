@@ -1,0 +1,626 @@
+<svg width="231" height="229" viewBox="0 0 231 229" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_3227_380070)">
+        <mask id="mask0_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="230" height="228">
+            <path d="M115.383 227.812C178.574 227.812 229.8 176.899 229.8 114.094C229.8 51.2885 178.574 0.375 115.383 0.375C52.1929 0.375 0.967033 51.2885 0.967033 114.094C0.967033 176.899 52.1929 227.812 115.383 227.812Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask0_3227_380070)">
+            <mask id="mask1_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask1_3227_380070)">
+                <path d="M235.637 -5.42969H-4.87048V233.611H235.637V-5.42969Z" fill="#EBF0F7"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M165.469 59.7266L276.217 157.863L229.907 231.175L171.115 252.488L47.7629 141.942L83.8968 121.236L148.885 92.083L165.469 59.7266Z" fill="#CCD6EC"/>
+            </g>
+        </g>
+        <mask id="mask2_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="166" y="106" width="21" height="30">
+            <path d="M166.52 113.719C166.228 111.294 167.361 108.927 169.427 107.615C171.506 106.316 174.144 106.316 176.222 107.615C178.301 108.915 179.433 111.294 179.129 113.719C179.129 114.752 178.873 115.773 178.382 116.69C182.702 117.084 186.17 120.391 186.765 124.661C187.36 128.932 184.92 133.051 180.869 134.595C176.818 136.149 172.229 134.722 169.789 131.16C167.349 127.597 167.688 122.84 170.618 119.66C168.12 118.744 166.485 116.365 166.509 113.719H166.52Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask2_3227_380070)">
+            <mask id="mask3_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask3_3227_380070)">
+                <path d="M192.696 100.844H160.636V141.017H192.696V100.844Z" fill="#2FAC66"/>
+            </g>
+        </g>
+        <mask id="mask4_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="166" y="117" width="14" height="19">
+            <path d="M166.52 121.797C166.52 119.639 168.272 117.898 170.443 117.898C172.615 117.898 174.366 119.639 174.366 121.797C174.366 122.447 174.203 123.085 173.899 123.654C176.619 123.851 178.849 125.893 179.246 128.574C179.655 131.255 178.137 133.865 175.592 134.852C173.047 135.838 170.163 134.945 168.634 132.693C167.104 130.442 167.349 127.448 169.217 125.476C167.594 124.988 166.497 123.491 166.509 121.809L166.52 121.797Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask4_3227_380070)">
+            <mask id="mask5_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask5_3227_380070)">
+                <path d="M185.154 112.094H160.683V141.046H185.154V112.094Z" fill="#2F9358"/>
+            </g>
+        </g>
+        <mask id="mask6_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="34" y="133" width="161" height="6">
+            <path d="M193.537 133.352H34.7081C34.3599 133.352 34.0777 133.632 34.0777 133.978V137.784C34.0777 138.13 34.3599 138.411 34.7081 138.411H193.537C193.885 138.411 194.167 138.13 194.167 137.784V133.978C194.167 133.632 193.885 133.352 193.537 133.352Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask6_3227_380070)">
+            <mask id="mask7_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask7_3227_380070)">
+                <path d="M200.005 127.547H28.2402V144.21H200.005V127.547Z" fill="#364975"/>
+            </g>
+        </g>
+        <mask id="mask8_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="165" y="87" width="3" height="47">
+            <path d="M167.408 87.5859H165.54V133.352H167.408V87.5859Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask8_3227_380070)">
+            <mask id="mask9_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask9_3227_380070)">
+                <path d="M173.245 81.7812H159.702V139.151H173.245V81.7812Z" fill="#6D6F76"/>
+            </g>
+        </g>
+        <mask id="mask10_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="167" y="87" width="3" height="47">
+            <path d="M169.322 87.5859H167.454V133.352H169.322V87.5859Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask10_3227_380070)">
+            <mask id="mask11_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask11_3227_380070)">
+                <path d="M175.16 81.7812H161.617V139.151H175.16V81.7812Z" fill="#5F6167"/>
+            </g>
+        </g>
+        <mask id="mask12_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="150" y="56" width="35" height="32">
+            <path d="M182.305 87.7708H152.604C151.681 87.7476 150.852 87.2255 150.42 86.4249C149.988 85.6242 150.023 84.6495 150.502 83.8721L165.353 57.647C165.738 56.8464 166.555 56.3359 167.454 56.3359C168.353 56.3359 169.17 56.8464 169.556 57.647L184.407 83.8721C184.885 84.6495 184.92 85.6242 184.488 86.4249C184.056 87.2255 183.227 87.7476 182.305 87.7708Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask12_3227_380070)">
+            <mask id="mask13_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask13_3227_380070)">
+                <path d="M190.629 50.5312H144.279V93.5701H190.629V50.5312Z" fill="#F2A905"/>
+            </g>
+        </g>
+        <mask id="mask14_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="165" y="80" width="5" height="5">
+            <path d="M167.454 84.1976C168.482 84.1976 169.322 83.362 169.322 82.3408C169.322 81.3197 168.482 80.4844 167.454 80.4844C166.427 80.4844 165.586 81.3197 165.586 82.3408C165.586 83.362 166.427 84.1976 167.454 84.1976Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask14_3227_380070)">
+            <mask id="mask15_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask15_3227_380070)">
+                <path d="M175.16 74.6875H159.749V90.0046H175.16V74.6875Z" fill="#3F424A"/>
+            </g>
+        </g>
+        <mask id="mask16_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="165" y="64" width="5" height="15">
+            <path d="M167.454 64.8438C166.415 64.8438 165.563 65.6677 165.54 66.7005L165.913 77.0511C165.913 78.1187 166.52 78.9079 167.454 78.9079C168.388 78.9079 168.902 78.0261 168.902 77.0049L169.322 66.7005C169.322 65.6793 168.482 64.8438 167.454 64.8438Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask16_3227_380070)">
+            <mask id="mask17_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask17_3227_380070)">
+                <path d="M175.16 59.0469H159.702V84.7149H175.16V59.0469Z" fill="#3F424A"/>
+            </g>
+        </g>
+        <mask id="mask18_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="13" y="179" width="30" height="6">
+            <path d="M28.0066 184.599C36.2376 184.599 42.9041 183.473 42.9041 182.092C42.9041 180.711 36.2376 179.586 28.0066 179.586C19.7756 179.586 13.1091 180.711 13.1091 182.092C13.1091 183.473 19.7756 184.599 28.0066 184.599Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask18_3227_380070)">
+            <mask id="mask19_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask19_3227_380070)">
+                <path opacity="0.05" d="M48.7417 173.781H7.27161V190.398H48.7417V173.781Z" fill="#2A2C30"/>
+            </g>
+        </g>
+        <mask id="mask20_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="117" y="162" width="20" height="22">
+            <path d="M135.605 162.406H118.092C117.653 162.406 117.298 162.759 117.298 163.195V182.411C117.298 182.847 117.653 183.2 118.092 183.2H135.605C136.043 183.2 136.399 182.847 136.399 182.411V163.195C136.399 162.759 136.043 162.406 135.605 162.406Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask20_3227_380070)">
+            <mask id="mask21_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask21_3227_380070)">
+                <path d="M142.236 156.602H111.46V189H142.236V156.602Z" fill="#3F424A"/>
+            </g>
+        </g>
+        <mask id="mask22_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="18" y="162" width="20" height="22">
+            <path d="M36.6462 162.406H19.1335C18.6951 162.406 18.3396 162.759 18.3396 163.195V182.411C18.3396 182.847 18.6951 183.2 19.1335 183.2H36.6462C37.0847 183.2 37.4401 182.847 37.4401 182.411V163.195C37.4401 162.759 37.0847 162.406 36.6462 162.406Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask22_3227_380070)">
+            <mask id="mask23_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask23_3227_380070)">
+                <path d="M43.2778 156.602H12.5021V189H43.2778V156.602Z" fill="#3F424A"/>
+            </g>
+        </g>
+        <mask id="mask24_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="16" y="133" width="122" height="35">
+            <path d="M137.799 163.798C137.823 164.936 136.936 165.887 135.791 165.934C126.825 166.63 90.5853 167.28 77.3691 167.28C64.1528 167.28 27.9132 166.63 18.9467 165.934C17.8142 165.864 16.9386 164.924 16.9386 163.798V135.345C16.9386 134.139 17.9193 133.164 19.1335 133.164H135.605C136.819 133.164 137.799 134.139 137.799 135.345V163.798Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask24_3227_380070)">
+            <mask id="mask25_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask25_3227_380070)">
+                <path d="M143.637 127.359H11.1011V173.079H143.637V127.359Z" fill="#1D3D8F"/>
+            </g>
+        </g>
+        <mask id="mask26_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="13" y="111" width="15" height="10">
+            <path d="M27.2361 111.352H13.6929C13.3189 111.352 13.0157 111.653 13.0157 112.025V119.451C13.0157 119.823 13.3189 120.124 13.6929 120.124H27.2361C27.6101 120.124 27.9132 119.823 27.9132 119.451V112.025C27.9132 111.653 27.6101 111.352 27.2361 111.352Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask26_3227_380070)">
+            <mask id="mask27_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask27_3227_380070)">
+                <path d="M33.7508 105.555H7.17816V125.931H33.7508V105.555Z" fill="#1D3D8F"/>
+            </g>
+        </g>
+        <mask id="mask28_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="126" y="111" width="16" height="10">
+            <path d="M141.092 111.352H127.549C127.175 111.352 126.872 111.653 126.872 112.025V119.451C126.872 119.823 127.175 120.124 127.549 120.124H141.092C141.466 120.124 141.769 119.823 141.769 119.451V112.025C141.769 111.653 141.466 111.352 141.092 111.352Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask28_3227_380070)">
+            <mask id="mask29_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask29_3227_380070)">
+                <path d="M147.607 105.555H121.034V125.931H147.607V105.555Z" fill="#1D3D8F"/>
+            </g>
+        </g>
+        <mask id="mask30_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="16" y="86" width="122" height="50">
+            <path d="M137.799 135.351C137.484 132.729 136.492 130.234 134.904 128.11C130.281 120.173 118.419 95.1554 118.419 95.1554C116.084 90.9664 111.822 88.1816 107.024 87.729C97.1584 86.6847 87.2462 86.2089 77.3223 86.2901C67.6553 86.2437 57.9883 86.7195 48.368 87.729C43.4645 88.3672 39.0746 91.0708 36.3193 95.1554L19.834 128.11C18.3513 130.28 17.3589 132.752 16.9386 135.351H137.799Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask30_3227_380070)">
+            <mask id="mask31_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask31_3227_380070)">
+                <path d="M143.637 80.4766H11.1011V141.153H143.637V80.4766Z" fill="#1D3D8F"/>
+            </g>
+        </g>
+        <mask id="mask32_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="41" y="148" width="73" height="13">
+            <path d="M108.798 160.876H46.2198C45.169 160.853 44.27 160.156 43.9782 159.158L41.5497 151.686C41.2812 150.931 41.3863 150.096 41.8416 149.434C42.2969 148.773 43.0325 148.367 43.8381 148.344H111.087C111.881 148.379 112.605 148.773 113.06 149.423C113.515 150.073 113.632 150.896 113.375 151.639L111.087 159.158C110.783 160.168 109.861 160.864 108.798 160.876Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask32_3227_380070)">
+            <mask id="mask33_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask33_3227_380070)">
+                <path d="M119.341 142.539H35.572V166.675H119.341V142.539Z" fill="#2A2C30"/>
+            </g>
+        </g>
+        <mask id="mask34_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="115" y="148" width="17" height="13">
+            <path d="M127.245 160.876H118.139C117.473 160.876 116.831 160.574 116.399 160.064C115.967 159.553 115.78 158.88 115.897 158.23L118.419 150.247C118.582 149.144 119.54 148.332 120.66 148.344H128.926C129.604 148.344 130.246 148.646 130.678 149.168C131.11 149.69 131.285 150.374 131.168 151.036L129.674 159.019C129.463 160.168 128.413 160.969 127.245 160.876Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask34_3227_380070)">
+            <mask id="mask35_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask35_3227_380070)">
+                <path d="M137.041 142.539H110.024V166.687H137.041V142.539Z" fill="#2A2C30"/>
+            </g>
+        </g>
+        <mask id="mask36_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="23" y="148" width="17" height="13">
+            <path d="M27.6798 160.876H36.7863C37.4518 160.876 38.0939 160.574 38.5259 160.064C38.9579 159.553 39.1447 158.88 39.0279 158.23L36.6462 150.247C36.4828 149.144 35.5254 148.332 34.4046 148.344H26.1386C25.4615 148.344 24.8193 148.646 24.3874 149.168C23.9554 149.69 23.7802 150.374 23.897 151.036L25.3914 159.019C25.6016 160.11 26.5589 160.899 27.6798 160.876Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask36_3227_380070)">
+            <mask id="mask37_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask37_3227_380070)">
+                <path d="M44.9005 142.539H18.0244V166.675H44.9005V142.539Z" fill="#2A2C30"/>
+            </g>
+        </g>
+        <mask id="mask38_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="32" y="89" width="91" height="26">
+            <path d="M122.435 113.252L114.87 98.3529C113.002 93.839 108.705 90.7871 103.802 90.5086C95.0218 89.5687 86.1955 89.2669 77.3691 89.5803C68.4026 89.4062 59.4244 89.8473 50.5163 90.88C45.7061 91.2862 41.4797 94.2218 39.4482 98.5849L32.3498 113.252C32.2214 113.543 32.2563 113.879 32.4315 114.146C32.6066 114.413 32.9101 114.564 33.237 114.552C33.237 114.552 55.4198 113.716 77.3691 113.716C99.3183 113.716 121.548 114.784 121.548 114.784C121.945 114.865 122.353 114.691 122.552 114.343C122.75 113.995 122.704 113.554 122.435 113.252Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask38_3227_380070)">
+            <mask id="mask39_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask39_3227_380070)">
+                <path opacity="0.8" d="M128.506 83.6562H26.4304V120.603H128.506V83.6562Z" fill="#93D0CC"/>
+            </g>
+        </g>
+        <mask id="mask40_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="109" y="132" width="25" height="10">
+            <path d="M131.775 141.291H110.993C110.503 141.291 110.059 141.013 109.873 140.56C109.674 140.119 109.768 139.597 110.106 139.249L114.776 133.911C115.348 133.238 116.177 132.855 117.065 132.844H131.915C132.592 132.867 133.129 133.424 133.129 134.097V140.038C133.129 140.386 132.989 140.723 132.733 140.955C132.476 141.199 132.125 141.315 131.775 141.291Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask40_3227_380070)">
+            <mask id="mask41_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask41_3227_380070)">
+                <path d="M138.967 127.047H103.93V147.099H138.967V127.047Z" fill="#EBF0F7"/>
+            </g>
+        </g>
+        <mask id="mask42_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="45" y="131" width="65" height="10">
+            <path d="M102.914 140.875H51.7772C51.2518 140.875 50.7498 140.643 50.4229 140.225L45.7528 133.959C45.4493 133.483 45.4493 132.892 45.7295 132.416C46.0097 131.94 46.5467 131.661 47.1071 131.685H107.818C108.378 131.638 108.927 131.917 109.207 132.404C109.487 132.892 109.452 133.506 109.125 133.959L104.455 140.272C104.082 140.724 103.498 140.956 102.914 140.875Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask42_3227_380070)">
+            <mask id="mask43_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask43_3227_380070)">
+                <path d="M115.231 125.875H39.6817V146.692H115.231V125.875Z" fill="#2A2C30"/>
+            </g>
+        </g>
+        <mask id="mask44_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="22" y="132" width="24" height="10">
+            <path d="M23.4767 141.291H44.2117C44.702 141.268 45.134 140.978 45.3208 140.525C45.5076 140.073 45.4259 139.562 45.099 139.202L40.429 133.865C39.8569 133.192 39.0279 132.808 38.1406 132.797H23.4767C23.1498 132.797 22.8345 132.925 22.601 133.168C22.3675 133.4 22.2508 133.725 22.2625 134.05V140.038C22.2508 140.363 22.3675 140.688 22.601 140.92C22.8345 141.152 23.1498 141.291 23.4767 141.291Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask44_3227_380070)">
+            <mask id="mask45_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask45_3227_380070)">
+                <path d="M51.2633 127H16.4248V147.098H51.2633V127Z" fill="#EBF0F7"/>
+            </g>
+        </g>
+        <mask id="mask46_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="23" y="116" width="22" height="15">
+            <path d="M39.0279 130.385H25.0177C24.5974 130.396 24.2122 130.187 24.002 129.816C23.7919 129.445 23.8035 129.015 24.037 128.667L31.1355 117.202C31.3573 116.901 31.6959 116.715 32.0695 116.692L43.1842 116.135C43.5578 116.112 43.9198 116.274 44.1416 116.576C44.3634 116.878 44.4218 117.261 44.3051 117.62L40.0086 129.642C39.8569 130.06 39.4715 130.35 39.0279 130.385Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask46_3227_380070)">
+            <mask id="mask47_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask47_3227_380070)">
+                <path opacity="0.05" d="M50.2126 110.336H18.0243V136.19H50.2126V110.336Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask48_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="130" y="112" width="11" height="5">
+            <path d="M138.407 112.279H131.588C131.028 112.279 129.674 114.136 130.234 114.182H137.099C138.64 114.182 139.294 113.904 139.294 116.549C139.294 117.199 140.928 116.085 140.928 115.528V114.647C140.928 113.997 140.66 113.37 140.181 112.918C139.703 112.465 139.06 112.233 138.407 112.279Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask48_3227_380070)">
+            <mask id="mask49_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask49_3227_380070)">
+                <path opacity="0.05" d="M146.766 106.477H124.268V122.548H146.766V106.477Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask50_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="14" y="112" width="11" height="5">
+            <path d="M16.2848 112.281H23.0564C23.6635 112.281 25.0178 114.138 24.4574 114.184H17.6391C16.1447 114.184 15.6777 113.72 15.6777 116.551C15.6777 117.201 14.0431 116.087 14.0431 115.53V114.648C14.0431 113.395 15.0239 112.351 16.2848 112.281Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask50_3227_380070)">
+            <mask id="mask51_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask51_3227_380070)">
+                <path opacity="0.05" d="M30.4234 106.484H8.20557V122.556H30.4234V106.484Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask52_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="76" y="144" width="62" height="22">
+            <path d="M133.83 163.896L77.7894 165.196C77.3574 165.172 77.0188 164.836 76.9955 164.406V145.376C76.9838 145.167 77.0655 144.958 77.2173 144.807C77.3691 144.657 77.5792 144.575 77.7894 144.587H137.099C137.309 144.575 137.519 144.657 137.671 144.807C137.823 144.958 137.905 145.167 137.893 145.376V159.858C137.893 160.925 137.461 161.958 136.702 162.712C135.943 163.466 134.904 163.896 133.83 163.896Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask52_3227_380070)">
+            <mask id="mask53_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask53_3227_380070)">
+                <path opacity="0.05" d="M143.73 138.789H71.1578V171.002H143.73V138.789Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask54_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="77" y="116" width="54" height="27">
+            <path d="M77.9761 142.778L104.409 142.5C104.701 142.5 104.969 142.36 105.156 142.128L113.749 132.288C114.368 131.464 115.395 131.058 116.411 131.221H129.907C130.292 131.197 130.631 130.965 130.818 130.629C130.993 130.292 130.993 129.886 130.794 129.549L125.33 117.806C125.155 117.47 124.817 117.261 124.443 117.249C124.443 117.249 105.763 116.507 93.2939 116.228C81.5721 115.996 78.6767 116.228 78.6767 116.228C77.9528 116.321 77.369 116.855 77.2289 117.574V141.664C77.1822 142.163 77.4975 142.627 77.9761 142.778Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask54_3227_380070)">
+            <mask id="mask55_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask55_3227_380070)">
+                <path opacity="0.05" d="M136.784 110.32H71.3914V148.578H136.784V110.32Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask56_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="123" y="133" width="8" height="8">
+            <path d="M127.339 140.503C129.242 140.503 130.794 138.959 130.794 137.068C130.794 135.176 129.242 133.633 127.339 133.633C125.436 133.633 123.883 135.176 123.883 137.068C123.883 138.959 125.436 140.503 127.339 140.503Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask56_3227_380070)">
+            <mask id="mask57_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask57_3227_380070)">
+                <path d="M136.632 127.836H118.045V146.31H136.632V127.836Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask58_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="115" y="135" width="6" height="5">
+            <path d="M117.952 139.108C119.084 139.108 120.007 138.191 120.007 137.066C120.007 135.94 119.084 135.023 117.952 135.023C116.819 135.023 115.897 135.94 115.897 137.066C115.897 138.191 116.819 139.108 117.952 139.108Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask58_3227_380070)">
+            <mask id="mask59_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask59_3227_380070)">
+                <path opacity="0.5" d="M125.844 129.219H110.059V144.907H125.844V129.219Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask60_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="24" y="133" width="8" height="8">
+            <path d="M28.0066 140.503C29.9152 140.503 31.4625 138.965 31.4625 137.068C31.4625 135.171 29.9152 133.633 28.0066 133.633C26.098 133.633 24.5507 135.171 24.5507 137.068C24.5507 138.965 26.098 140.503 28.0066 140.503Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask60_3227_380070)">
+            <mask id="mask61_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask61_3227_380070)">
+                <path d="M37.3 127.836H18.7132V146.31H37.3V127.836Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask62_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="35" y="135" width="5" height="5">
+            <path d="M37.3934 139.108C38.5259 139.108 39.4482 138.191 39.4482 137.066C39.4482 135.94 38.5259 135.023 37.3934 135.023C36.2609 135.023 35.3386 135.94 35.3386 137.066C35.3386 138.191 36.2609 139.108 37.3934 139.108Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask62_3227_380070)">
+            <mask id="mask63_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask63_3227_380070)">
+                <path opacity="0.5" d="M45.2858 129.219H29.5011V144.907H45.2858V129.219Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask64_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="121" y="132" width="10" height="10">
+            <path d="M121.081 132.844H127.572L130.514 141.291H123.743L121.081 132.844Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask64_3227_380070)">
+            <mask id="mask65_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask65_3227_380070)">
+                <path opacity="0.5" d="M136.352 127.047H115.243V147.099H136.352V127.047Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask66_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="25" y="132" width="11" height="10">
+            <path d="M25.8583 132.797H32.3498L35.2452 141.291H28.5203L25.8583 132.797Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask66_3227_380070)">
+            <mask id="mask67_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask67_3227_380070)">
+                <path opacity="0.5" d="M41.0828 127H20.0208V147.098H41.0828V127Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask68_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="45" y="92" width="65" height="19">
+            <path d="M109.079 109.729L103.755 99.0075C102.459 95.828 99.4467 93.6696 96.0025 93.4375C89.803 92.7761 83.5568 92.5672 77.3223 92.7876C71.0061 92.6716 64.6898 92.9734 58.4086 93.716C54.9761 93.9945 51.9756 96.1413 50.6096 99.286L45.6127 109.729C45.5427 109.938 45.566 110.159 45.6828 110.345C45.7995 110.53 45.9979 110.646 46.2198 110.658C46.2198 110.658 61.8645 109.869 77.3223 109.869C92.7802 109.869 108.425 110.658 108.425 110.658C108.647 110.658 108.857 110.542 108.997 110.356C109.125 110.17 109.16 109.938 109.079 109.729Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask68_3227_380070)">
+            <mask id="mask69_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask69_3227_380070)">
+                <path opacity="0.9" d="M114.963 86.9062H39.7401V116.462H114.963V86.9062Z" fill="#93D0CC"/>
+            </g>
+        </g>
+        <mask id="mask70_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="76" y="89" width="21" height="25">
+            <path d="M96.7964 113.718H86.4756H81.0584L76.0147 89.9531H82.9731H90.2584L96.7964 113.718Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask70_3227_380070)">
+            <mask id="mask71_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask71_3227_380070)">
+                <path opacity="0.4" d="M102.634 84.1484H70.1772V119.517H102.634V84.1484Z" fill="#EBF0F7"/>
+            </g>
+        </g>
+        <mask id="mask72_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="95" y="90" width="13" height="25">
+            <path d="M107.958 114.043L101.607 113.718L95.0685 90H97.9173H100.392L107.958 114.043Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask72_3227_380070)">
+            <mask id="mask73_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask73_3227_380070)">
+                <path opacity="0.4" d="M113.795 84.1953H89.231V119.843H113.795V84.1953Z" fill="#EBF0F7"/>
+            </g>
+        </g>
+        <mask id="mask74_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="121" y="87" width="32" height="32">
+            <path d="M137.099 118.317C145.739 118.317 152.744 111.356 152.744 102.768C152.744 94.1806 145.739 87.2188 137.099 87.2188C128.459 87.2188 121.454 94.1806 121.454 102.768C121.454 111.356 128.459 118.317 137.099 118.317Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask74_3227_380070)">
+            <mask id="mask75_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask75_3227_380070)">
+                <path d="M158.581 81.4141H115.617V124.117H158.581V81.4141Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask76_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="114" y="53" width="34" height="34">
+            <path d="M130.841 86.3761C140.023 86.3761 147.467 78.9781 147.467 69.8521C147.467 60.7262 140.023 53.3281 130.841 53.3281C121.659 53.3281 114.216 60.7262 114.216 69.8521C114.216 78.9781 121.659 86.3761 130.841 86.3761Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask76_3227_380070)">
+            <mask id="mask77_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask77_3227_380070)">
+                <path d="M153.304 47.5234H108.378V92.1754H153.304V47.5234Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask78_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="89" y="33" width="26" height="26">
+            <path d="M102.447 58.2546C109.334 58.2546 114.916 52.7061 114.916 45.8617C114.916 39.0172 109.334 33.4688 102.447 33.4688C95.5608 33.4688 89.9782 39.0172 89.9782 45.8617C89.9782 52.7061 95.5608 58.2546 102.447 58.2546Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask78_3227_380070)">
+            <mask id="mask79_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask79_3227_380070)">
+                <path d="M120.754 27.6719H84.1407V64.0617H120.754V27.6719Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask80_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="101" y="39" width="26" height="26">
+            <path d="M114.029 64.4268C120.915 64.4268 126.498 58.8783 126.498 52.0338C126.498 45.1894 120.915 39.6406 114.029 39.6406C107.142 39.6406 101.56 45.1894 101.56 52.0338C101.56 58.8783 107.142 64.4268 114.029 64.4268Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask80_3227_380070)">
+            <mask id="mask81_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask81_3227_380070)">
+                <path d="M132.336 33.8438H95.7224V70.2338H132.336V33.8438Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask82_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="93" y="75" width="35" height="35">
+            <path d="M122.484 104.534C129.141 97.9183 129.141 87.1913 122.484 80.5751C115.827 73.959 105.034 73.9589 98.3776 80.5751C91.7209 87.1912 91.721 97.9182 98.3777 104.534C105.034 111.151 115.827 111.151 122.484 104.534Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask82_3227_380070)">
+            <mask id="mask83_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask83_3227_380070)">
+                <path d="M133.316 69.8125H87.5497V115.3H133.316V69.8125Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask84_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="87" y="90" width="44" height="35">
+            <path d="M108.985 124.719C120.643 124.719 130.094 117.134 130.094 107.778C130.094 98.4208 120.643 90.8359 108.985 90.8359C97.3273 90.8359 87.8767 98.4208 87.8767 107.778C87.8767 117.134 97.3273 124.719 108.985 124.719Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask84_3227_380070)">
+            <mask id="mask85_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask85_3227_380070)">
+                <path d="M135.931 85.0312H82.0391V130.519H135.931V85.0312Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask86_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="65" y="96" width="36" height="35">
+            <path d="M83.2066 130.29C92.8786 130.29 100.719 122.704 100.719 113.348C100.719 103.991 92.8786 96.4062 83.2066 96.4062C73.5346 96.4062 65.6939 103.991 65.6939 113.348C65.6939 122.704 73.5346 130.29 83.2066 130.29Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask86_3227_380070)">
+            <mask id="mask87_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask87_3227_380070)">
+                <path d="M106.557 90.6094H59.8564V136.097H106.557V90.6094Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask88_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="49" y="113" width="25" height="20">
+            <path d="M73.0259 127.087C73.0259 127.087 67.4218 122.12 64.1995 124.72C59.5294 128.572 59.2492 134.931 49.0685 131.821C49.0685 131.821 55.0929 132.564 56.4472 122.538C56.634 119.672 58.0817 117.015 60.3934 115.286C62.7051 113.557 65.6706 112.918 68.4959 113.534" fill="white"/>
+        </mask>
+        <g mask="url(#mask88_3227_380070)">
+            <mask id="mask89_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask89_3227_380070)">
+                <path d="M78.8635 107.5H43.231V138.448H78.8635V107.5Z" fill="#DADADA"/>
+            </g>
+        </g>
+        <mask id="mask90_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="86" y="102" width="18" height="18">
+            <path d="M97.1192 119.48C101.688 118.408 104.517 113.858 103.439 109.317C102.361 104.777 97.7829 101.964 93.2143 103.036C88.6457 104.108 85.8163 108.658 86.8946 113.198C87.9729 117.739 92.5506 120.551 97.1192 119.48Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask90_3227_380070)">
+            <mask id="mask91_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask91_3227_380070)">
+                <path d="M109.686 96.9219H81.0117V125.421H109.686V96.9219Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask92_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="68" y="94" width="25" height="25">
+            <path d="M91.7338 110.866C94.2507 104.827 91.365 97.9031 85.2887 95.4015C79.2124 92.9 72.2463 95.7679 69.7294 101.807C67.2125 107.846 70.098 114.77 76.1743 117.272C82.2506 119.773 89.2169 116.905 91.7338 110.866Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask92_3227_380070)">
+            <mask id="mask93_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask93_3227_380070)">
+                <path d="M98.4776 88.6953H62.9852V123.971H98.4776V88.6953Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask94_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="122" y="79" width="20" height="20">
+            <path d="M138.841 95.7705C142.617 92.0183 142.617 85.9348 138.841 82.1827C135.066 78.4305 128.945 78.4304 125.17 82.1826C121.395 85.9348 121.395 92.0183 125.17 95.7705C128.945 99.5227 135.066 99.5227 138.841 95.7705Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask94_3227_380070)">
+            <mask id="mask95_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask95_3227_380070)">
+                <path d="M147.513 73.5625H116.504V104.383H147.513V73.5625Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask96_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="130" y="65" width="30" height="29">
+            <path d="M145.272 93.8091C153.267 93.8091 159.749 87.3668 159.749 79.42C159.749 71.4733 153.267 65.0312 145.272 65.0312C137.276 65.0312 130.794 71.4733 130.794 79.42C130.794 87.3668 137.276 93.8091 145.272 93.8091Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask96_3227_380070)">
+            <mask id="mask97_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask97_3227_380070)">
+                <path d="M165.586 59.2266H124.957V99.6083H165.586V59.2266Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask98_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="98" y="17" width="32" height="32">
+            <path d="M117.444 48.5467C125.854 46.5741 131.062 38.1993 129.077 29.8413C127.092 21.4833 118.666 16.3071 110.257 18.2797C101.848 20.2524 96.6396 28.6269 98.6244 36.9849C100.609 45.3429 109.035 50.5194 117.444 48.5467Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask98_3227_380070)">
+            <mask id="mask99_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask99_3227_380070)">
+                <path d="M135.511 11.9766H92.5468V54.6791H135.511V11.9766Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask100_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="79" y="36" width="15" height="14">
+            <path d="M86.8493 49.8494C90.6407 49.8494 93.7142 46.7947 93.7142 43.0264C93.7142 39.2581 90.6407 36.2031 86.8493 36.2031C83.0578 36.2031 79.9843 39.2581 79.9843 43.0264C79.9843 46.7947 83.0578 49.8494 86.8493 49.8494Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask100_3227_380070)">
+            <mask id="mask101_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask101_3227_380070)">
+                <path d="M99.5518 30.3984H74.1467V55.6486H99.5518V30.3984Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask102_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="102" y="39" width="23" height="24">
+            <path d="M116.089 61.711C122.114 60.2978 125.845 54.2979 124.423 48.3101C123.001 42.3223 116.965 38.6138 110.94 40.027C104.916 41.4403 101.184 47.4401 102.606 53.4279C104.028 59.4158 110.065 63.1243 116.089 61.711Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask102_3227_380070)">
+            <mask id="mask103_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask103_3227_380070)">
+                <path d="M130.748 33.8438H96.6564V67.7275H130.748V33.8438Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask104_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="84" y="22" width="20" height="22">
+            <path d="M94.228 43.0246C99.5411 43.0246 103.848 38.4527 103.848 32.8131C103.848 27.1734 99.5411 22.6016 94.228 22.6016C88.9148 22.6016 84.6076 27.1734 84.6076 32.8131C84.6076 38.4527 88.9148 43.0246 94.228 43.0246Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask104_3227_380070)">
+            <mask id="mask105_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask105_3227_380070)">
+                <path d="M109.686 16.7969H78.7701V48.8238H109.686V16.7969Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask106_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="118" y="34" width="39" height="39">
+            <path d="M154.701 60.5993C158.718 50.9602 154.112 39.9094 144.414 35.9167C134.716 31.9241 123.597 36.5014 119.58 46.1406C115.563 55.7797 120.168 66.8305 129.867 70.8231C139.565 74.8158 150.684 70.2385 154.701 60.5993Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask106_3227_380070)">
+            <mask id="mask107_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask107_3227_380070)">
+                <path d="M161.99 28.6797H112.301V78.0661H161.99V28.6797Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask108_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="100" y="85" width="33" height="32">
+            <path d="M116.084 116.083C124.879 116.083 132.009 109.287 132.009 100.905C132.009 92.5221 124.879 85.7266 116.084 85.7266C107.289 85.7266 100.159 92.5221 100.159 100.905C100.159 109.287 107.289 116.083 116.084 116.083Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask108_3227_380070)">
+            <mask id="mask109_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.56H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask109_3227_380070)">
+                <path d="M137.846 79.9219H94.3214V121.882H137.846V79.9219Z" fill="white"/>
+            </g>
+        </g>
+        <mask id="mask110_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="85" y="83" width="29" height="29">
+            <path d="M102.904 110.873C110.535 109.083 115.261 101.483 113.46 93.8988C111.659 86.3142 104.013 81.617 96.3819 83.4071C88.7508 85.1973 84.0246 92.7968 85.8257 100.381C87.6268 107.966 95.2732 112.663 102.904 110.873Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask110_3227_380070)">
+            <mask id="mask111_3227_380070" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-820" y="-4393" width="1683" height="5584">
+                <path d="M862.124 -4392.09H-819.094V1190.57H862.124V-4392.09Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask111_3227_380070)">
+                <path d="M119.866 77.1484H79.7974V116.973H119.866V77.1484Z" fill="white"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_3227_380070">
+            <rect width="230" height="228.598" fill="white" transform="translate(0.5)"/>
+        </clipPath>
+    </defs>
+</svg>

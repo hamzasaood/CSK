@@ -58,7 +58,32 @@
 <li class="mobile-nav"><span class="mobile-menu"></span></li>
 <li class="mobile-search"><img src="{{asset('assets/media-sub/assets/cp4l/images/mobile-search-icon.svg')}}" alt="Search" title="Search"></li>
 <li class="mobile-logo"><a href="{{url('/')}}" title="Car Parts 4 Less"><img src="{{asset('assets/media-sub/assets/cp4l/images/logo.svg')}}" alt="" title=""></a></li>
-<li class="sign-in"><a href="{{url('/login')}}" title="Sign In"><img src="{{asset('assets/media-sub/assets/cp4l/images/header-user-icon.png')}}" alt="Sign In" title="Sign In"><span>Sign In</span></a></li>
+<li class="sign-in">
+@guest
+@if (Route::has('login'))
+  <a href="{{url('/login')}}" title="Sign In">
+
+  <img src="{{asset('assets/media-sub/assets/cp4l/images/header-user-icon.png')}}" alt="Sign In" title="Sign In">
+  <span>Sign In</span>
+
+
+</a>
+@else
+
+
+<a href="{{url('/my-account')}}" title="My Account">
+
+  <img src="{{asset('assets/media-sub/assets/cp4l/images/header-user-icon.png')}}" alt="Sign In" title="Sign In">
+  <span>My Account</span>
+
+
+</a>
+
+
+
+@endif
+@endguest
+</li>
 <li class="wishlist-header"><a class="wishlist-btn" title="Wish List" href="#"><span class="wishlist-cart-box hide-counter">0</span>
 <img src="{{asset('assets/media-sub/assets/cp4l/images/heart.svg')}}" alt="Wish List" title="Wish List"></a></li>
 <li class="cart" id="quickbasketLi"><a href="javascript:void(0);" tabindex="0" class="basket-icon" role="button" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="Currently there are no items in your basket." style="cursor: default;"><span class="cart-count">0</span><img src="{{asset('assets/media-sub/assets/cp4l/images/cart-icon.svg')}}" alt="Basket"></a></li>

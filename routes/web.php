@@ -22,4 +22,6 @@ Route::get('/', [App\Http\Controllers\SiteController::class, 'index'])->name('ho
 
 Auth::routes();
 
-//Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/my-account', [App\Http\Controllers\HomeController::class, 'myaccount'])->name('myaccount');
+

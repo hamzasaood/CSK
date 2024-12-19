@@ -1,6 +1,7 @@
 @extends('layout.default')
 
 @section('content')
+{{-- 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -74,7 +75,7 @@
         </div>
     </div>
 </div>
-
+--}}
 
 
 
@@ -101,40 +102,63 @@
 <section class="covid-19 alert alert-dismissible pull-left" role="alert" style="background-color: rgb(231, 19, 18); color: rgb(255, 255, 255); display: none;"><div class="container"><div class="row text-center">
 <button id="covidUpdateAlert" type="button" class="close" data-dismiss="alert" aria-label="Close"><img height="13" width="13" src="//media.carparts4less.co.uk/assets/cp4l/images/sitemessage.png?v=99.33" alt="car-parts" title="car-parts"></button><p><small><b>WINTER SAVINGS&nbsp;21% OFF CAR PARTS! Enter code WINTER21 at checkout. Ends 11:59pm on 19/12/2024. <a href="https://www.carparts4less.co.uk/terms-and-conditions">T&amp;Cs apply</a>.</b></small></p>
 </div></div></section><div class="row"><div class="col s12 breadcrumbs-col"><ul>
-<li><a title="Home" href="https://www.carparts4less.co.uk">Home</a></li>
+<li><a title="Home" href="{{url('/')}}">Home</a></li>
 <li>New Customer Registration</li>
 </ul></div></div>
-<section class="row registration-col"><div class="col s12"><form action="https://www.carparts4less.co.uk/sign-up" method="post" name="register-form" id="register-form" class="registerForm">
+<section class="row registration-col"><div class="col s12">
+    <form action="{{ route('register') }}" method="POST" name="register-form" id="register-form" class="registerForm">
+        @csrf
 <h2>New Customer Registration</h2>
 <div class="inner-block">
 <div class="col s12 m6 l6">
 <h3>Customer Login Information</h3>
 <span class="sub-text">You will need this email and password to login to our Website</span><div class="login-info-form">
 <fieldset>
-<label for="email">Email Address*</label><input rel="E" class="InputTxtBox required email" type="email" name="email" id="email" maxlength="100" autocomplete="off" value=""><div id="E" class="error registerEmailError">Please enter a valid Email address.</div>
+<label for="email">Email Address*</label>
+<input rel="E" class="InputTxtBox required email @error('email') is-invalid @enderror" type="email" name="email" id="email" maxlength="100" autocomplete="off" value="">
+@error('email')
+<div id="E" class="error registerEmailError">{{ $message }}</div>
+@enderror
 </fieldset>
 <fieldset>
-<label for="pswd">Password*</label><input class="InputTxtBox required password" type="password" name="password" id="password" maxlength="64" autocomplete="off" value=""><div id="PW" class="error">Please enter valid password.</div>
+<label for="pswd">Password*</label>
+<input class="InputTxtBox required password @error('password') is-invalid @enderror" type="password" name="password" id="password" maxlength="64" autocomplete="off" value=""><div id="PW" class="error">Please enter valid password.</div>
+@error('password')
+<span class="label-text">{{ $message }}</span>
+@enderror
+</fieldset>
+<fieldset>
+<label for="cpswd">Confirm Password*</label>
+<input class="InputTxtBox required cpassword" type="password" name="password_confirmation" id="cpassword" autocomplete="new-password" maxlength="64" value=""><div id="CPW" class="error">Password and Confirm password must be same.</div>
 <span class="label-text">(minimum 8 characters)</span>
 </fieldset>
 <fieldset>
-<label for="cpswd">Confirm Password*</label><input class="InputTxtBox required cpassword" type="password" name="cpassword" id="cpassword" autocomplete="off" maxlength="64" value=""><div id="CPW" class="error">Password and Confirm password must be same.</div>
-<span class="label-text">(minimum 8 characters)</span>
-</fieldset>
-<fieldset>
-<label for="title">Title</label><span class="select-outer small"><select name="salutation" id="salutation" class="SelectTxtBox selectBox"><option value="">Select Title</option>
+<label for="title">Title</label><span class="select-outer small">
+    <select name="title" id="salutation" class="SelectTxtBox selectBox">
+        <option disabled value="">Select Title</option>
 <option value="Mr">Mr</option>
 <option value="Mrs">Mrs</option>
 <option value="Ms">Ms</option>
 <option value="Miss">Miss</option>
 <option value="Dr">Dr</option>
-<option value="Prof">Prof</option></select></span><div id="SL" class="error">Please select name title.</div>
+<option value="Prof">Prof</option>
+</select></span>
+
+<div id="SL" class="error">Please select name title.</div>
 </fieldset>
 <fieldset>
-<label for="fname">First Name*</label><input class="InputTxtBox required name" type="text" name="firstname" id="firstname" maxlength="40" autocomplete="off" value=""><div id="FN" class="error">Please enter valid first name.</div>
+<label for="fname">First Name*</label>
+<input class="InputTxtBox required name @error('name') is-invalid @enderror"  type="text" name="name" id="firstname" maxlength="40" autocomplete="off" value="">
+@error('name')
+<div id="FN" class="error">{{ $message }}</div>
+@enderror
 </fieldset>
 <fieldset>
-<label for="sname"> Surname*</label><input class="InputTxtBox required lname" type="text" name="secondname" id="secondname" maxlength="40" autocomplete="off" value=""><div id="LN" class="error">Please enter valid surname.</div>
+<label for="sname"> Surname*</label>
+<input class="InputTxtBox required lname @error('surname') is-invalid @enderror" type="text" name="surname" id="secondname" maxlength="40" autocomplete="off" value="">
+@error('surname')
+<div id="LN" class="error">{{ $message }}</div>
+@enderror
 </fieldset>
 </div>
 </div>
@@ -142,13 +166,24 @@
 <h3>Customer Contact Information</h3>
 <span class="sub-text">This will be treated as your billing address</span><div class="login-info-form">
 <fieldset>
-<label for="mobnum">Mobile No.*</label><input class="InputTxtBox required" type="tel" name="mobileno" id="mobileno" autocomplete="off" maxlength="15" value=""><div id="PH" class="error">Please enter valid mobile no.</div>
+<label for="mobnum">Mobile No.*</label>
+<input class="InputTxtBox required @error('mobile_no') is-invalid @enderror" type="tel" name="mobile_no" id="mobileno" autocomplete="off" maxlength="15" value="">
+@error('mobile_no')
+<div id="PH" class="error">{{ $message }}</div>
+@enderror
 </fieldset>
 <fieldset>
-<label for="tele"> Home Telephone No.*</label><input class="InputTxtBox required phone" type="tel" name="phoneno" autocomplete="off" maxlength="20" id="phoneno" value=""><div id="PH" class="error">Please enter valid telephone no.</div>
+<label for="tele"> Home Telephone No.*</label>
+<input class="InputTxtBox required phone @error('home_tel') is-invalid @enderror" type="tel" name="home_tel" autocomplete="off" maxlength="20" id="phoneno" value="">
+@error('home_tel')
+<div id="PH" class="error">{{ $message }}</div>
+@enderror
+
 </fieldset>
 <fieldset>
-<label for="country">Country*</label><span class="select-outer"><select name="country" id="country" class="SelectTxtBox selectBox required empty" onchange="javascript:changeCountry(this);"><option value="">Please select a country.</option>
+<label for="country">Country*</label><span class="select-outer">
+    <select name="country" id="country" class="SelectTxtBox selectBox required empty" onchange="javascript:changeCountry(this);">
+        <option value="">Please select a country.</option>
 <option value="777" id="country_777" international="0">GB Mainland</option>
 <option value="778" id="country_778" international="0">Isle Of Man</option>
 <option value="779" id="country_779" international="0">Northern Ireland</option>
@@ -250,10 +285,13 @@
 <option value="877" id="country_877" international="1">Virgin Islands, British</option>
 <option value="878" id="country_878" international="1">Virgin Islands, U.S.</option>
 <option value="879" id="country_879" international="1">Zambia</option>
-<option value="880" id="country_880" international="1">Zimbabwe</option></select></span><div id="C" class="error">Please select a country.</div>
+<option value="880" id="country_880" international="1">Zimbabwe</option>
+</select></span>
+<div id="C" class="error">Please select a country.</div>
 </fieldset>
 <fieldset style="display:none;">
-<label for="postcode">Enter Your Postcode</label><input class="small" maxlength="10" type="text" id="findPostcode" name="findPostcode" autocomplete="off"><button class="post-find-btn">Find</button>
+<label for="postcode">Enter Your Postcode</label>
+<input class="small" maxlength="10" type="text" id="findPostcode" name="findPostcode" autocomplete="off"><button class="post-find-btn">Find</button>
 </fieldset>
 <div class="address-finder" id="registrationAfdDiv">
 <fieldset id="billingAddress">
@@ -262,17 +300,15 @@
 <span class="manual-text">My address does not appear as an option? <a href="javascript:void(0);" onclick="javascript:clearAddress('');" title="Enter your address manually">Enter your address manually.</a></span>
 </div>
 <fieldset>
-<label for="address1">Address 1*</label><input class="InputTxtBox required empty" type="text" name="address1" id="address1" maxlength="250" autocomplete="off" value=""><div id="AD1" class="error">Please enter valid address.</div>
+<label for="address1">Address 1*</label><input class="InputTxtBox required empty" type="text" name="address_1" id="address1" maxlength="250" autocomplete="off" value=""><div id="AD1" class="error">Please enter valid address.</div>
 </fieldset>
 <fieldset>
-<label for="address2">Address 2</label><input class="InputTxtBox" type="text" name="address2" id="address2" maxlength="250" autocomplete="off" value="">
+<label for="address2">Address 2</label><input class="InputTxtBox" type="text" name="address_2" id="address2" maxlength="250" autocomplete="off" value="">
 </fieldset>
 <fieldset>
 <label for="town"> Town/City*</label><input class="InputTxtBox required empty" type="text" name="town" id="town" maxlength="100" autocomplete="off" value=""><div id="TW" class="error">Please enter your town/city.</div>
 </fieldset>
-<fieldset>
-<label for="county">County</label><input class="InputTxtBox" type="text" name="county" id="county" value="" autocomplete="off" maxlength="100"><div id="CU" class="error"> Please enter your county.</div>
-</fieldset>
+
 <fieldset>
 <label for="postcode">Postcode</label><input class="InputTxtBox" type="text" name="postcode" id="postcode" autocomplete="off" maxlength="10" value="">
 </fieldset>
@@ -280,16 +316,20 @@
 </div>
 </div>
 <div class="terms-col">
-<p class="custom-checkbox"><input name="tos" type="checkbox" id="tos" class="chkBox required" value="on"><label for="tos">I have read and accept the <a target="_blank" href="https://www.carparts4less.co.uk/terms-and-conditions" title="terms of service">terms of service</a> of this website*</label></p>
+<p class="custom-checkbox">
+    <input name="tos" type="checkbox" id="tos" class="chkBox required" value="on"><label for="tos">I have read and accept the <a target="_blank" href="https://www.carparts4less.co.uk/terms-and-conditions" title="terms of service">terms of service</a> of this website*</label></p>
 <div id="tosError" class="error">Please accept Terms of Service.</div>
 <p id="main-bsubscribe" class="custom-checkbox"><input name="bsubscribe" type="checkbox" id="bsubscribe" class="chkBox" value="1"><label for="bsubscribe">Yes, I would like to receive product updates and other offers from LKQ Group (UK) Limited trading as Car Parts 4 Less and its affiliated companies by email, telephone, social media and other electronic means. I understand that I may revoke my consent / unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of every marketing email.</label></p>
 <fieldset><div class="errorScoreSpammers">
-<input type="hidden" class="form-control" name="recaptchakey" id="recaptchakey" value="6LcRxwAaAAAAALBHPkXhvMZrF0GCXXXQKg0exWok"><input type="hidden" class="form-control" name="siteid" id="siteid" value="4"><p class="text-danger" style="display:none;" id="spamRequest"></p>
-</div></fieldset>
+<input type="hidden" class="form-control" name="recaptchakey" id="recaptchakey" value="6LcRxwAaAAAAALBHPkXhvMZrF0GCXXXQKg0exWok">
+<input type="hidden" class="form-control" name="siteid" id="siteid" value="4"><p class="text-danger" style="display:none;" id="spamRequest"></p>
+</div>
+</fieldset>
 <fieldset><div class="recaptchav3-txtmsg"><span>This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" class="" title="Privacy Notice" target="_blank">Privacy Notice</a> and
 				<a href="https://policies.google.com/terms" class="" title="Terms of Service" target="_blank"> Terms of Service</a> apply.
-			</span></div></fieldset>
-<button id="js-sign-up-btn-captchabtnv3" class="reg-btn captchabtnv3">Complete Your Registration</button>
+			</span></div>
+        </fieldset>
+<button id="js-sign-up-btn-captchabtnv3"  type="submit" class="reg-btn ">Complete Your Registration</button>
 </div>
 </form>
 </div>

@@ -1546,7 +1546,7 @@ registerServiceWorker().then(function(registration) {
 			})(window,document,'script','dataLayer','GTM-2Z4H');
 		</script><script type="text/javascript" src="//media.carparts4less.co.uk/assets/cp4l/js/jquery.autocomplete.js?v=99.25"></script><script type="text/javascript" src="//media.carparts4less.co.uk/assets/cp4l/js/jquery.dataTables.min.js?v=99.25"></script><script>
 			var loginuser = false;
-			</script><script src="https://www.google.com/recaptcha/api.js?render=6LcRxwAaAAAAALBHPkXhvMZrF0GCXXXQKg0exWok"></script><script type="text/javascript" src="//media.carparts4less.co.uk/assets/cp4l/js/captchav3.js?v=99.25"></script>
+			</script><script src="#"></script><script type="text/javascript" src="//media.carparts4less.co.uk/assets/cp4l/js/captchav3.js?v=99.25"></script>
 </body>
 <div class="overlay threedpopupoverlay" style="display:none;"></div>
 </html>

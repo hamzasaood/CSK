@@ -60,7 +60,7 @@
 <li class="mobile-logo"><a href="{{url('/')}}" title="Car Parts 4 Less"><img src="{{asset('assets/media-sub/assets/cp4l/images/logo.svg')}}" alt="" title=""></a></li>
 <li class="sign-in">
 @guest
-@if (Route::has('login'))
+
   <a href="{{url('/login')}}" title="Sign In">
 
   <img src="{{asset('assets/media-sub/assets/cp4l/images/header-user-icon.png')}}" alt="Sign In" title="Sign In">
@@ -73,7 +73,7 @@
 
 <a href="{{url('/my-account')}}" title="My Account">
 
-  <img src="{{asset('assets/media-sub/assets/cp4l/images/header-user-icon.png')}}" alt="Sign In" title="Sign In">
+  <img src="{{asset('assets/header-user-active-icon.png')}}" alt="My Account" title="My Account">
   <span>My Account</span>
 
 
@@ -81,12 +81,30 @@
 
 
 
-@endif
+
 @endguest
 </li>
 <li class="wishlist-header"><a class="wishlist-btn" title="Wish List" href="#"><span class="wishlist-cart-box hide-counter">0</span>
 <img src="{{asset('assets/media-sub/assets/cp4l/images/heart.svg')}}" alt="Wish List" title="Wish List"></a></li>
-<li class="cart" id="quickbasketLi"><a href="javascript:void(0);" tabindex="0" class="basket-icon" role="button" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="Currently there are no items in your basket." style="cursor: default;"><span class="cart-count">0</span><img src="{{asset('assets/media-sub/assets/cp4l/images/cart-icon.svg')}}" alt="Basket"></a></li>
+<li class="cart" id="quickbasketLi">
+  <a href="javascript:void(0);" onclick="cart()" tabindex="0" class="basket-icon" role="button" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="Currently there are no items in your basket." >
+    <span class="cart-count">0</span><img src="{{asset('assets/media-sub/assets/cp4l/images/cart-icon.svg')}}" alt="Basket">
+  <div class="cart-dropdown" style="display: none; opacity: 1;">
+<span class="heading">You have 1 item(s) in your basket</span><ul class="cart-list"><li data-amount="" data-prdcode="529772710" data-qty="2" data-category="Home////">
+<figure><img src="//media.carparts4less.co.uk/images/products/60x60/529772710.jpg?v=20.10" alt="Top Tech Hand held rechargeable 5 Led Inspection Lamp and Torch" title="Top Tech Hand held rechargeable 5 Led Inspection Lamp and Torch"></figure><div class="detail-col">
+<span class="heading">Top Tech Hand held rechargeable 5 Led Inspection Lamp and Torch</span><span class="desc-text">Product Code: 
+                                            529772710</span><span class="amount">£<span class="nocss">38.98</span></span>
+</div>
+<div class="value-selector"><b>2</b></div>
+</li></ul>
+<div class="basket-button-col">
+<a class="basket-btn" href="{{url('/basket')}}" title="View Basket">View Basket</a>
+<a href="#" title="Checkout" class="checkout-btn">Checkout</a>
+</div>
+</div>
+  
+  </a>
+  </li>
 </ul></div>
 </div></div>
 <section class="nav-col"><div class="container"><div class="row">
@@ -102,7 +120,7 @@
 </div>
 <div class="col s12"><nav><span class="mobile-menu"></span><ul class="outer-ul">
 <li class="tier1nav  ">
-<a class="onlydlink" href="#" title="Car Parts"><img class="nav-ico" src="{{asset('assets/media-sub/images/cp4l/assets/nav-icons/car-parts.png')}}">Car Parts</a><div class="sub-nav out-list">
+<a class="onlydlink" href="{{url('/car-parts')}}" title="Car Parts"><img class="nav-ico" src="{{asset('assets/media-sub/images/cp4l/assets/nav-icons/car-parts.png')}}">Car Parts</a><div class="sub-nav out-list">
 <span class="back-link"><a href="javascript:void(0);" title=""><img class="nav-ico" src="{{asset('assets/media-sub/images/cp4l/assets/nav-icons/car-parts.png')}}">Car Parts</a></span><ul class="left-sub-nav">
 <li class="sub-li active">
 <a class="onlydlink" href="car-service-parts.html" title="">Car Service Parts</a><div class="inner-nav out-list">
@@ -855,36 +873,6 @@
 
 
   // Get all menu items and their corresponding submenus
-  const menuContainers = document.querySelectorAll('.tier1nav');
-
-  menuContainers.forEach(menuContainer => {
-    const subNav = menuContainer.querySelector('.sub-nav.out-list'); // Find the submenu inside the current menu item
-
-    if (subNav) { // Check if the submenu exists
-      // Show submenu on hover
-      menuContainer.addEventListener('mouseenter', () => {
-        subNav.style.display = 'block';
-      });
-
-      // Hide submenu when mouse leaves the container
-      menuContainer.addEventListener('mouseleave', () => {
-        subNav.style.display = 'none';
-      });
-    }
-  });
-
-
-  document.querySelectorAll('.left-sub-nav li').forEach(subLi => {
-  subLi.addEventListener('mouseenter', function () {
-    // Remove the active class from all sibling `li` elements
-    this.parentNode.querySelectorAll('li.active').forEach(item => {
-      item.classList.remove('active');
-    });
-
-    // Add the active class to the hovered `li`
-    this.classList.add('active');
-  });
-});
 
 
 </script>

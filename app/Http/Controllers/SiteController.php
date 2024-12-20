@@ -11,4 +11,15 @@ class SiteController extends Controller
     {
         return view('home');
     }
+
+    public function basket()
+    {
+        return view('basket');
+    }
+    public function parts()
+    {
+        return view('car-parts');
+    }
+    
+    
 }

@@ -21,6 +21,8 @@
 <link rel="stylesheet" type="text/css" href="{{asset('assets/media-sub/assets/cp4l/css/owl.carousel.css')}}">
 <link rel="stylesheet" type="text/css" href="{{asset('assets/media-sub/assets/cp4l/css/return.css')}}">
 <link rel="stylesheet" type="text/css" href="{{asset('assets/media-sub/assets/cp4l/css/jquery.dataTables.min.css')}}">
+<link rel="stylesheet" type="text/css" href="{{asset('assets/media-sub/assets/cp4l/css/nice-select.css')}}">
+
 
 
 
@@ -112,6 +114,8 @@ function OptanonWrapper() { }
 
         <script type="text/javascript" src="{{asset('assets/media-sub/assets/cp4l/js/jquery.autocomplete.js')}}"></script>
 		<script type="text/javascript" src="{{asset('assets/media-sub/assets/cp4l/js/jquery.dataTables.min.js')}}"></script>
+		<script type="text/javascript" src="{{asset('assets/media-sub/assets/cp4l/js/jquery.nice-select.min.js')}}"></script>
+
 
 
 
@@ -124,9 +128,17 @@ function OptanonWrapper() { }
 
 
 </body>
+<script>
+$(document).ready(function()
+{  
+	
+	function cart()
+	{
+		document.querySelector(".cart-dropdown").style.display = "block";
 
+	}
 
-
-
+});
+</script>
 
 </html>

@@ -16,6 +16,9 @@ use App\Http\Controllers\SiteController;
 
 
 Route::get('/', [App\Http\Controllers\SiteController::class, 'index'])->name('home');
+Route::get('/basket', [App\Http\Controllers\SiteController::class, 'basket'])->name('basket');
+Route::get('/car-parts', [App\Http\Controllers\SiteController::class, 'parts'])->name('parts');
+
 
 
 

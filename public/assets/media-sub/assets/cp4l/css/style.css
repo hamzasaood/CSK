@@ -213,11 +213,11 @@ header .login-box .register-link {
     font-size: 13px
 }
 header .login-box button:hover {
-    background: #f39c11
+    background: #f01a26
 }
 button.search-submit,
 button.search-submit:hover {
-    background: url(../images/search-btn.svg) center center no-repeat #f39c11;
+    background: url(../images/search-btn.svg) center center no-repeat #f01a26;
     box-shadow: none
 }
 header .login-box .register-link {
@@ -225,7 +225,7 @@ header .login-box .register-link {
     float: left
 }
 header .login-box .register-link a {
-    color: #f39c11
+    color: #f01a26
 }
 header .login-box .frgt-pwsd {
     color: #b9b9ba;
@@ -454,13 +454,13 @@ header .nav-col nav li.login-nav {
     font-size: 15px
 }
 .cart-dropdown .basket-button-col .basket-btn {
-    background: #e1e1e1;
-    color: #7e7b7b;
+    background: #000201;
+    color: #ffffff;
     float: left;
     margin-right: 10px
 }
 .cart-dropdown .basket-button-col .checkout-btn {
-    background: #62a020;
+    background: #f01a26;
     color: #fff;
     float: right
 }
@@ -581,7 +581,7 @@ header .nav-col .sub-nav .left-sub-nav li a.more-links {
     width: auto;
     text-align: right;
     color: #fff;
-    background: #f39c11;
+    background: #f01a26;
     padding: 10px 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
@@ -592,7 +592,7 @@ header .nav-col .sub-nav .left-sub-nav li a.more-links {
     font-size: 15px
 }
 header .nav-col .sub-nav .left-sub-nav li a.more-links:hover {
-    background-color: #e05c0b
+    background-color: #f01a26
 }
 header .nav-col .sub-nav .menu-image {
     position: absolute;
@@ -630,7 +630,7 @@ header .nav-col .sub-nav .inner-nav li {
     width: 100%;
     padding: 0 0 0 15px;
     font-size: 15px;
-    color: #233f92;
+    color: #000201;
     font-family: ProximaNovaBold;
     margin: 0 0 10px;
     line-height: 15px;
@@ -644,24 +644,24 @@ header .nav-col .sub-nav .inner-nav li:first-child {
     padding-left: 0
 }
 header .nav-col .sub-nav .inner-nav li:first-child:hover {
-    color: #233f92;
+    color: #000201;
     background: 0 0;
     cursor: inherit
 }
 header .nav-col .sub-nav .inner-nav li:hover {
-    color: #233f92;
+    color: #000201;
     background: url(../images/nav-list-icon-blue.svg) left 3px no-repeat #fff
 }
 header .nav-col .sub-nav .inner-nav li.view-link {
     background: 0 0
 }
 header .nav-col .sub-nav .inner-nav li.view-link a {
-    color: #233f92;
+    color: #000201;
     font-family: ProximaNovaBold;
     font-size: 11px
 }
 header .nav-col .sub-nav .inner-nav li a {
-    color: #000;
+    color: #000201;
     font-size: 13px;
     font-family: ProximaNova;
     float: left;
@@ -672,7 +672,7 @@ header .nav-col .sub-nav .inner-nav li a {
 }
 header .nav-col .sub-nav .inner-nav li a:hover,
 header .nav-col .sub-nav .inner-nav li:hover a {
-    color: #233f92;
+    color: #000201;
     background: 0 0
 }
 header .nav-col .sub-nav .inner-nav ul {
@@ -1238,7 +1238,7 @@ footer.page-footer ul li {
     width: 100%
 }
 .show-all a {
-    color: #e05c0b
+    color: #f01a26;
 }
 .all-product .product-cony {
     min-height: 214px
@@ -3507,7 +3507,7 @@ th {
     width: auto
 }
 .shopping-cart-col .cart-button .cont-btn {
-    background: #f39c11;
+    background: #f01a26;
     float: left;
     margin-right: 10px;
     padding: 12px 20px;
@@ -6097,7 +6097,7 @@ figure.tier-one-banner img {
     position: relative
 }
 .my-account-container .signout-btn {
-    background: #f39c11;
+    background: #f01a26;
     border-radius: 5px;
     color: #fff;
     font-size: 15px;
@@ -6166,7 +6166,7 @@ figure.tier-one-banner img {
     width: 100%
 }
 .my-account-container .account-edit .inner a span {
-    background: #f39c11;
+    background: #f01a26;
     border-radius: 5px;
     color: #fff;
     float: left;
@@ -12565,7 +12565,7 @@ span.checkout-mobile-info-text-error{
 .whitebox .heading strong { font-weight: normal; color:#797a7a; font-size:15px; }
 .whitebox input#promotionalCode,.whitebox input.promotionalCode { border: 1px solid #ddd; padding: 8px 10px; width: 63%; float: left; border-radius:2px; height:38px; box-sizing: border-box; font-size:14px; margin-bottom:7px; }
 .promo-form.form-inline{ padding-top:18px; }
-.whitebox button.waves-light { float: left; background-color: #f39c11; border-radius: 5px; width: 32%; text-align: center; padding: 9px 0; font-size: 14px; color: #fff; text-transform: none; font-family: 'ProximaNovaBold'; line-height: normal; margin-left:5%; border:none; height:38px; }
+.whitebox button.waves-light { float: left; background-color: #f01a26; border-radius: 5px; width: 32%; text-align: center; padding: 9px 0; font-size: 14px; color: #fff; text-transform: none; font-family: 'ProximaNovaBold'; line-height: normal; margin-left:5%; border:none; height:38px; }
 .whitebox button.waves-light:hover { background-color: #e05c0b;color:#fff; }
 .whitebox.shadow{ -webkit-box-shadow: 0px 0px 10px 0px rgba(217,217,217,0.76); -moz-box-shadow: 0px 0px 10px 0px rgba(217,217,217,0.76); box-shadow: 0px 0px 10px 0px rgba(217,217,217,0.76); }
 .basket-new .spacing-prod-new{ padding-bottom: 10px; padding-top: 10px; position:relative; float: left; width: 100%; }
@@ -12586,7 +12586,7 @@ span.checkout-mobile-info-text-error{
 .basket-new .international{ color: #6e6f6f; font-size: 13px; line-height: 18px; text-align: center; margin-top: 39px; text-decoration: underline; margin-bottom: 0; }
 .basket-new .international img{ width:18px; margin-right:8px; }
 .basket-new .international a{ color: #6e6f6f; font-size: 13px; line-height: 18px; text-align: center; text-decoration:underline; } 
-.basket-new .check-availability .btn-green { background-color: #f39c11; line-height:1; white-space:nowrap; padding: 8px 32px 8px 20px; background-image: url(../images/right-white-fifm-arrow.svg); background-repeat: no-repeat; background-position: center right 13px; background-size: 7px; border-radius:5px;font-family: "ProximaNovaBold";text-transform: none; }
+.basket-new .check-availability .btn-green { background-color: #f01a26; line-height:1; white-space:nowrap; padding: 8px 32px 8px 20px; background-image: url(../images/right-white-fifm-arrow.svg); background-repeat: no-repeat; background-position: center right 13px; background-size: 7px; border-radius:5px;font-family: "ProximaNovaBold";text-transform: none; }
 .basket-new .check-availability .btn-green:hover { background-color: #e05c0b;color:#fff; }
 .basket-new .spacing-prod {margin:0; padding-bottom: 20px; padding-top: 20px; border-bottom: 1px solid #e7e7e7; position: relative; min-height: 159px; }
 .basket-new .row.spacing-prod { margin-left: -15px; margin-right: -15px; }
@@ -13365,7 +13365,10 @@ span.promo-applied {font-family: "ProximaNovaBold" !important; color:#ffffff !im
 .latest-product-offers .product-list .home-latest-offer .amount-outer .amount {text-align: right;color: #CE2127;float: left;font-family: "ProximaNovaBold";font-size: 20px;line-height: 1;width: 100%;display: flex;align-items: center;justify-content: space-between;padding-left: 6px;}
 .latest-product-offers .product-list .home-latest-offer .amount-outer .amount span {line-height: 1;}
 .latest-product-offers .product-list .home-latest-offer .amount-outer .amount span.old-price {font-size: 12px;line-height: 1;margin: 1px 4px 0 0;color: #000;text-decoration: line-through;}
-.latest-product-offers .product-list .home-latest-offer .shop-now {padding-right: 15px;font-family: 'ProximaNovaBold';letter-spacing: -0.4px;font-size: 13px;line-height:16px;color: #e05c0b;position: relative;}
+.latest-product-offers .product-list .home-latest-offer .shop-now {
+    padding-right: 15px;font-family: 'ProximaNovaBold';letter-spacing: -0.4px;font-size: 13px;line-height:16px;
+    color:#f01a26;position: relative;
+}
 .latest-product-offers .product-list .home-latest-offer .shop-now img{position:absolute;right:0;top:2px; width:12px;}
 .latest-product-offers .product-list .home-latest-offer .thumb-box figure{margin:0;}
 .latest-product-offers .product-list li img {height: auto;max-height:160px;}

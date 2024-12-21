@@ -57,7 +57,7 @@
 <div class="col s3 right-grid"><ul class="cart-area">
 <li class="mobile-nav"><span class="mobile-menu"></span></li>
 <li class="mobile-search"><img src="{{asset('assets/media-sub/assets/cp4l/images/mobile-search-icon.svg')}}" alt="Search" title="Search"></li>
-<li class="mobile-logo"><a href="{{url('/')}}" title="Car Parts 4 Less"><img src="{{asset('assets/media-sub/assets/cp4l/images/logo.svg')}}" alt="" title=""></a></li>
+<li class="mobile-logo"><a href="{{url('/')}}" title="Car Parts 4 Less"><img src="{{asset('assets/logo.png')}}" alt="" title=""></a></li>
 <li class="sign-in">
 @guest
 
@@ -861,7 +861,7 @@
 .logo {
     float: left;
     margin: -10px 65px -25px -3px;
-    width: 234px;
+    width: 200px;
 }
 
 	</style>

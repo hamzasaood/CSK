@@ -2780,8 +2780,9 @@ div#category-filterss{margin-top:65px;}
         padding-top: 17px
     }
     header .cart-area li.mobile-logo img {
-        width: 120px;
-        height: 20px
+        width: 105px;
+        height: auto;
+        margin-top: -20px;
     }
     header .cart-area li.mobile-logo a {
         float: left;
@@ -7778,13 +7779,15 @@ div#category-filterss{margin-top:65px;}
     display: none !important;
   }
 	.sale-counter .promo-text span {   line-height: 18px;}
-.mobile-counter-parent .mobile-timer {color: #ffe61a;    font-family: "ProximaNovaBold";display: block;line-height: 18px;}
+.mobile-counter-parent .mobile-timer {
+    color: #ffe61a;    font-family: "ProximaNovaBold";display: block;line-height: 13px;
+}
 	span.sale-end-label{    font-size: 13px;	    color: #fff;    font-family: 'ProximaNova';    text-transform: unset;    line-height: 24px;    margin-top: 2px;}
 span.mobile-offer{	    color: #ffe61a;        font-family: "ProximaNovaBold";	display: block;	line-height: 18px;}
 .mobile-counter-description{     margin-top: 2px;   width: 45%;    float: left;position: relative}
 .mobile-counter-description::after {    position: absolute;    content: "";    height: 35px;    width: 1px;    right: 1px;    background: #fff;    top: 6px;
 }
-.sale-counter .promo-text {    padding: 0;    color: #fff;    font-size: 13px;    font-family: 'ProximaNova';    text-transform: unset;    line-height: 24px;    margin-top: 2px;    background: none;    width: 30%;}
+.sale-counter .promo-text {    padding: 0;    color: #fff;    font-size: 10px;    font-family: 'ProximaNova';    text-transform: unset;    line-height: 24px;    margin-top: 2px;    background: none;    width: 30%;}
 	.mobile-counter-parent {    padding: 0;    color: #fff;    font-family: 'ProximaNova';    text-transform: unset;    line-height: 18px;    margin-top: 2px;    background: none;    float: left;    position: relative;    width: 25%;}
 .mobile-counter-parent .mobile-timer, .sale-counter .promo-text span{    display: block;
 font-size:14px;
@@ -9461,7 +9464,7 @@ li.productbrandslisting .col.s12.m9.l9.left-col .product-content .product_brand_
 @media only screen and (max-width: 767px){
 	.sale-counter .mobile-counter-parent .mobile-timer, .sale-counter span.mobile-offer, .sale-counter .promo-text span {
 		text-transform: uppercase;
-        font-size:13px !important;
+        font-size:10px !important;
         font-family:"ProximaNovaBold" !important;
 	} 
 } 
@@ -10505,7 +10508,7 @@ html,body{overflow-x: hidden;}
 @media only screen and (min-width:768px){
     footer.page-footer .footer-copyright p{
     max-width:300px;
-    margin-top:0;
+    margin-top:25px;
     }
     }
     

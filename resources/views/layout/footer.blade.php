@@ -50,7 +50,7 @@
 </div></div>
 <div class="footer-copyright grey-text" style="background-color: #f7f7f7;"><div class="container">
 <a href="{{url('/')}}" class="footer-logo"  data-position="top" title="Car Parts 4 Less">
-    <img alt="CarParts4less" src="{{asset('assets/logo-foot.jpeg')}}" height="105" width="105"></a>
+    <img alt="CarParts4less" src="{{asset('assets/logo.png')}}" height="105" width="150"></a>
     <h5 style="color:black;">We Accept</h5>
 <a href="#"><ul class="right card-list">
 <li><img src="{{asset('assets/media-sub/assets/cp4l/images/visa_card.png')}}" alt="VISA" title="VISA"></li>

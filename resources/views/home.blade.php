@@ -100,10 +100,13 @@
 </div>
 
 
-<div class="home-slider" style="visibility: visible;"><div class="bx-wrapper" style="max-width: 100%;">
-    <div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 804.062px;">
-        <ul class="bxslider" style="width: 415%; position: relative; transition-duration: 0s; transform: translate3d(-1980px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; width: 990px;" class="bx-clone">
-<a href="#" rel="noopener noreferrer"><img src="{{asset('assets/20s.png')}}" title="" alt="" class="mobile" data-position="position1"></a>
+<div class="home-slider" style="visibility: visible;">
+    <div class="bx-wrapper" style="max-width: 100%;">
+    <div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height:auto;">
+        <ul class="bxslider" style="width: 415%; position: relative; transition-duration: 0s; transform: translate3d(-1980px, 0px, 0px);">
+            <li style="float: left; list-style: none; position: relative; width: 990px;" class="bx-clone">
+<a href="#" rel="noopener noreferrer">
+    <img src="{{asset('assets/20s.png')}}" title="" alt="" class="mobile" data-position="position1"></a>
 </li>
 <li style="float: left; list-style: none; position: relative; width: 990px;">
 <a href="#" rel="noopener noreferrer">
@@ -113,15 +116,18 @@
 </a>
 </li>
 <li style="float: left; list-style: none; position: relative; width: 990px;">
-<a href="#" rel="noopener noreferrer"><img src="{{asset('assets/20s.png')}}" title="" alt="" class="desktop" data-position="position1"></a>
+<a href="#" rel="noopener noreferrer">
+    <img src="{{asset('assets/20s.png')}}" title="" alt="" class="desktop" data-position="position1"></a>
 <a href="#" rel="noopener noreferrer">
     <img src="{{asset('assets/media-sub/images/banners/home/c7335e19d474c58ed74510a101db6c622e482cc9e9be3df7ebe47194ec398e6f.png')}}" title="" alt="" class="mobile" data-position="position1"></a>
 </li>
 <li style="float: left; list-style: none; position: relative; width: 990px;" class="bx-clone">
-<a href="#" rel="noopener noreferrer"><img src="{{asset('assets/media-sub/images/banners/home/c7335e19d474c58ed74510a101db6c622e482cc9e9be3df7ebe47194ec398e6f.png')}}" title="" alt="" class="desktop" data-position="position1"></a>
+<a href="#" rel="noopener noreferrer">
+    <img src="{{asset('assets/media-sub/images/banners/home/c7335e19d474c58ed74510a101db6c622e482cc9e9be3df7ebe47194ec398e6f.png')}}" title="" alt="" class="desktop" data-position="position1"></a>
 <a href="#" rel="noopener noreferrer">
     <img src="{{asset('assets/media-sub/images/banners/home/c7335e19d474c58ed74510a101db6c622e482cc9e9be3df7ebe47194ec398e6f.png')}}" title="" alt="" class="mobile" data-position="position1"></a>
-</li></ul></div><div class="bx-controls bx-has-pager">
+</li></ul></div>
+<div class="bx-controls bx-has-pager">
     <div class="bx-pager bx-default-pager">
         <div class="bx-pager-item">
             <a href="" data-slide-index="0" class="bx-pager-link">1</a>
@@ -131,13 +137,19 @@
         </div>
     </div>
 </div>
+
+
 </div>
 </div>
 
 
 
 
-</div></section><section class="row latest-product-offers"><h2><span>Latest Offers</span></h2>
+</div>
+
+</section>
+
+<section class="row latest-product-offers"><h2><span>Latest Offers</span></h2>
 <div class="col s12 product-list"><ul class="bxslider home-latest-offer">
 <li>
 <div class="thumb-box"><figure><img width="144" height="144" alt="" title="" src="{{asset('assets/media-sub/images/products/200x200/529772730.jpg')}}" class="lazy-loaded"></figure></div>

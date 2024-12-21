@@ -1298,6 +1298,11 @@ body {
     height: 100vh;
 } */
 }
+.alert-dismissable .close, .alert-dismissible .close {
+  
+     right: 0 !important; 
+    
+}
 /* CI-1490 */
 footer.page-footer {
     background-color: #fff;
@@ -1307,7 +1312,7 @@ footer.page-footer {
 }
 .card-list {
     float: right;
-    margin: 2px 0 0
+    margin: 37px 0 0;
 }
 .card-list li {
     float: left;
@@ -13622,7 +13627,11 @@ span.promo-applied {font-family: "ProximaNovaBold" !important; color:#ffffff !im
 /* CI-5590 */
 section.main-content {overflow-x: hidden;}
 .container section.covid-19 {width: 100vw;position: relative;left: 50%;-webkit-transform: translateX(-50%);-ms-transform: translateX(-50%);transform: translateX(-50%);}
-.covid-19 .close {background-color: transparent;}
+.covid-19 .close {
+    background-color: #ffffff !important;
+    padding: 1px 3px 1px 3px !important;
+
+}
 /* CI-5590 */
 
 /* EPL-16111 */
